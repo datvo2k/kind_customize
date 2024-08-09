@@ -69,6 +69,7 @@ require (
 
 require (
 	github.com/containerd/containerd/api v1.7.19
+	github.com/coreos/go-iptables v0.7.0
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mdlayher/netlink v1.7.2 // indirect
